@@ -6,3 +6,4 @@ A machine learning project that predicts whether a telecom customer will churn o
 ## How to Run
 1. Clone the repo
 2. Run `streamlit run app.py`
+3. Or try it here: https://churn-prediction-2025.streamlit.app/
